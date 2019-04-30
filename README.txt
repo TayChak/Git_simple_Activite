@@ -2,7 +2,11 @@ How to Use
 
 You need to create a database using SQL databse then you try to connect on your server (local)
 
-The program is running   
+The program is running  
+
+
+
+This is a simple example of how to create a "mini chat" program   
 
 
 
